@@ -1,1 +1,0 @@
-# wmsu_cte_student_information_system
